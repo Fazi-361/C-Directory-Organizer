@@ -1,4 +1,4 @@
-This is a rough directory organizer for Windows directories.
+This is a rough organizer for Windows directories.
 Any eventual damages done on your machine are **none of my responisbility**. 
 This project was done to learn C fundamentals and thus **may be unsafe**.
 
